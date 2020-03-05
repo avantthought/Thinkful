@@ -1,2 +1,2 @@
 # Thinkful
-Exercises from Thinkful
+Projects and Excercises through Thinkful
