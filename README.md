@@ -1,2 +1,2 @@
 # Thinkful
-Projects and Excercises through Thinkful
+A collection of notebooks and exercises through Thinkful.
